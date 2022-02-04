@@ -247,6 +247,45 @@ a:hover {
 	background: #F6F6F6;
 }
 
+.container_portfolio {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.block4_header {
+	margin: 112px 0 47px 0;
+}
+
+.block4_header span {
+	font-family: 'Gilroy-Bold';
+	font-size: 34px;
+	line-height: 42px;
+	text-align: center;
+
+	color: #070707;
+}
+
+.block4_card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.card_title {
+	margin: 44px 0 95px 0;
+}
+
+.card_title span {
+	font-family: 'Gilroy-Medium';
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	text-decoration-line: underline;
+
+	color: #070707;
+}
+
 
 /* footer */
 
